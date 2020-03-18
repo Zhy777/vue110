@@ -5,7 +5,7 @@
 
      <!-- 中间的 路由 router-view 区域 -->
     <router-view></router-view>
-    
+
      <!-- 底部的tabbar -->
      <nav class="mui-bar mui-bar-tab">
 			<router-link class="mui-tab-item mui-active" to="/home">
@@ -27,7 +27,7 @@
 				<span class="mui-tab-label">搜素</span>
 			</router-link>
 		</nav>
-             <h1 >123</h1>  
+             <h1 >1234</h1>  
     </div>
 </template>
 
